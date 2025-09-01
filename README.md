@@ -17,7 +17,7 @@ Teaching assistants:
 
 ## Installing Python 3.13 
 
-Students are asked to install the Anaconda distribution of Python 3.13, on their own computers. This is available at https://www.anaconda.com/download.
+Students are asked to install the Anaconda distribution of Python 3.13, on their own computers. This is available at https://www.anaconda.com/download. You may have to register first. 
 
 ## Windows laptops
 
@@ -36,8 +36,7 @@ where ``[user]`` is your CSHL username (e.g. mine is ``jkinney``). Then enter yo
 To download elzar_exercise.tar.gz to Elzar, execute:
 
 ```
-wget --no-check-certificate "https://github.com/jbkinney/25e_programming_
-bootcamp/raw/main/elzar_exercise.tar.gz"
+wget --no-check-certificate "https://github.com/jbkinney/25e_programming_bootcamp/raw/main/elzar_exercise.tar.gz"
 ```
 
 Then to unpack, execute:
