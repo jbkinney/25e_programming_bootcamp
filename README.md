@@ -35,8 +35,10 @@ where ``[user]`` is your CSHL username (e.g. mine is ``jkinney``). Then enter yo
 
 To download elzar_exercise.tar.gz to Elzar, execute:
 
-```wget --no-check-certificate "https://github.com/jbkinney/25e_programming_
-bootcamp/raw/main/elzar_exercise.tar.gz"```
+```
+wget --no-check-certificate "https://github.com/jbkinney/25e_programming_
+bootcamp/raw/main/elzar_exercise.tar.gz"
+```
 
 Then to unpack, execute:
 
