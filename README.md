@@ -1,27 +1,23 @@
-# 2024 Quantitative Biology Bootcamp
+# 2025 Programming Bootcamp
 
-Welcome to the 2024 QB Bootcamp of the School for Biological Sciences at Cold Spring Harbor Laboratory! This Github repository contains the Jupyter notebooks, shell scripts, and datasets that we will work through in this bootcamp. 
+Welcome to the 2025 Programming Bootcamp of the School for Biological Sciences at Cold Spring Harbor Laboratory! This Github repository contains the Jupyter notebooks, shell scripts, and datasets that we will work through in this bootcamp. 
 
 ## Summary
 
-Repository URL: https://github.com/jbkinney/24e_qbbootcamp
+Repository URL: https://github.com/jbkinney/25e_programming_bootcamp
 
 Instructors: 
 - Justin Kinney (<jkinney@cshl.edu>)
 - Ivan Iossifov (<iossifov@cshl.edu>)
+- Hannah Meyer, (<hmeyer@cshl.edu>)
 
 Teaching assistants:
-- Aria Benjamin (<benjami@cshl.edu>)
-- Kaiser Loell (<loell@cshl.edu>)
+- Alan Murphy, (<amurphy@cshl.edu>)
+- Stan Kerstjens, (<kerstje@cshl.edu>)
 
-Schedule:
-- Day 1: Tuesday, 3 September 2024, 10am - 6pm, Plimpton Conference Room, Beckman Bldg.
-- Day 2: Wednesday, 4 September 2024, 1pm - 6pm, Plimpton Conference Room, Beckman Bldg.
-- Day 3: Thursday, 5 September 2024, 10am - 5pm, Plimpton Conference Room, Beckman Bldg.
+## Installing Python 3.13 
 
-## Installing Python 3.12 
-
-Students are asked to install the Anaconda distribution of Python 3.12, on their own computers. This is available at https://www.anaconda.com/products/distribution. 
+Students are asked to install the Anaconda distribution of Python 3.13, on their own computers. This is available at https://www.anaconda.com/download.
 
 ## Windows laptops
 
@@ -39,7 +35,8 @@ where ``[user]`` is your CSHL username (e.g. mine is ``jkinney``). Then enter yo
 
 To download elzar_exercise.tar.gz to Elzar, execute:
 
-```wget --no-check-certificate "https://github.com/jbkinney/24e_qbbootcamp/raw/main/elzar_exercise.tar.gz"```
+```wget --no-check-certificate "https://github.com/jbkinney/25e_programming_
+bootcamp/raw/main/elzar_exercise.tar.gz"```
 
 Then to unpack, execute:
 
